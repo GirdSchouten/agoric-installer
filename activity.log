@@ -32,3 +32,4 @@
 2025-01-01 fix timezone issue [32]
 2025-01-01 adjust validation rules [33]
 2025-01-01 update database schema [34]
+2025-01-01 add fallback [35]
