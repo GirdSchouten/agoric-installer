@@ -105,3 +105,4 @@
 2025-01-04 update CI pipeline [4]
 2025-01-04 reformat code [5]
 2025-01-04 fix timezone issue [6]
+2025-01-04 better error handling [7]
