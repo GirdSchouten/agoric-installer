@@ -133,3 +133,4 @@
 2025-01-05 restructure modules [2]
 2025-01-05 update headers [3]
 2025-01-05 update deployment script [4]
+2025-01-05 fix null pointer [5]
