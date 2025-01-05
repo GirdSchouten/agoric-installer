@@ -145,3 +145,4 @@
 2025-01-05 remove unused import [14]
 2025-01-05 restructure modules [15]
 2025-01-05 fix typo in code [16]
+2025-01-05 better error handling [17]
