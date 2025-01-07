@@ -194,3 +194,4 @@
 2025-01-07 add helper function [16]
 2025-01-07 update CI pipeline [17]
 2025-01-07 restructure modules [18]
+2025-01-07 improve logging format [19]
