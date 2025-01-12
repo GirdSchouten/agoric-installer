@@ -333,3 +333,4 @@
 2025-01-12 improve security [3]
 2025-01-12 simplify logic [4]
 2025-01-12 fix CI errors [5]
+2025-01-12 add integration tests [6]
