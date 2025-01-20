@@ -632,3 +632,4 @@
 2025-01-20 fix docker build [17]
 2025-01-20 remove deprecated code [18]
 2025-01-20 cleanup dependencies [19]
+2025-01-20 security patch [20]
