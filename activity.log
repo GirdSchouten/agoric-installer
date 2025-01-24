@@ -758,3 +758,4 @@
 2025-01-23 better error handling [44]
 2025-01-24 stabilize build [1]
 2025-01-24 fix null pointer [2]
+2025-01-24 fix edge case [3]
