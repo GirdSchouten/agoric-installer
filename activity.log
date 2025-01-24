@@ -782,3 +782,4 @@
 2025-01-24 remove deprecated code [24]
 2025-01-24 fix misconfiguration [25]
 2025-01-24 upgrade dependencies [26]
+2025-01-24 fix config bug [27]
