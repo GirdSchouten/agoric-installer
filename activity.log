@@ -870,3 +870,4 @@
 2025-01-27 remove unused import [8]
 2025-01-27 clean project structure [9]
 2025-01-27 add unit tests [10]
+2025-01-27 add integration tests [11]
