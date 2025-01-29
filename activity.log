@@ -938,3 +938,4 @@
 2025-01-29 add integration tests [4]
 2025-01-29 fix edge case [5]
 2025-01-29 cleanup dependencies [6]
+2025-01-29 fix null pointer [7]
