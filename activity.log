@@ -937,3 +937,4 @@
 2025-01-29 improve docs [3]
 2025-01-29 add integration tests [4]
 2025-01-29 fix edge case [5]
+2025-01-29 cleanup dependencies [6]
