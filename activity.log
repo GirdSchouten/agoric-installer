@@ -1037,3 +1037,4 @@
 2025-02-01 update constants [5]
 2025-02-01 change configuration [6]
 2025-02-01 improve logging format [7]
+2025-02-01 fix null pointer [8]
