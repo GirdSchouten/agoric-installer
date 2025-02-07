@@ -1242,3 +1242,4 @@
 2025-02-07 update version [10]
 2025-02-07 add unit tests [11]
 2025-02-07 fix CI errors [12]
+2025-02-07 better error handling [13]
