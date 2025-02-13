@@ -1408,3 +1408,4 @@
 2025-02-13 add changelog [1]
 2025-02-13 fix async issue [2]
 2025-02-13 reduce complexity [3]
+2025-02-13 fix encoding issue [4]
