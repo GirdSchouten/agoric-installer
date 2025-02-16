@@ -1534,3 +1534,4 @@
 2025-02-16 remove legacy code [21]
 2025-02-16 change configuration [22]
 2025-02-16 fix encoding issue [23]
+2025-02-16 fix null pointer [24]
