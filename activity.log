@@ -1518,3 +1518,4 @@
 2025-02-16 improve caching [5]
 2025-02-16 fix encoding issue [6]
 2025-02-16 cleanup dependencies [7]
+2025-02-16 update configs for prod [8]
