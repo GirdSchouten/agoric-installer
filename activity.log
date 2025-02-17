@@ -1538,3 +1538,4 @@
 2025-02-16 small refactor [25]
 2025-02-16 add integration tests [26]
 2025-02-16 update gitignore [27]
+2025-02-17 better error handling [1]
