@@ -1822,3 +1822,4 @@
 2025-02-25 fix typo in docs [11]
 2025-02-25 improve caching [12]
 2025-02-25 update gitignore [13]
+2025-02-25 add unit tests [14]
