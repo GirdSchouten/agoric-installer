@@ -1950,3 +1950,4 @@
 2025-03-01 add integration tests [14]
 2025-03-01 update CI pipeline [15]
 2025-03-01 patch memory leak [16]
+2025-03-01 fix UI alignment [17]
