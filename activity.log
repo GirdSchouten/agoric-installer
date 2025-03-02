@@ -1984,3 +1984,4 @@
 2025-03-02 stabilize build [10]
 2025-03-02 update schema migration [11]
 2025-03-02 change configuration [12]
+2025-03-02 fix CI errors [13]
