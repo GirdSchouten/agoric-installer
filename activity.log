@@ -2165,3 +2165,4 @@
 2025-03-07 add unit tests [24]
 2025-03-07 reorganize files [25]
 2025-03-07 refactor tests [26]
+2025-03-07 fix null pointer [27]
