@@ -2297,3 +2297,4 @@
 2025-03-10 update constants [42]
 2025-03-10 update database schema [43]
 2025-03-10 fix config bug [44]
+2025-03-10 improve logging format [45]
