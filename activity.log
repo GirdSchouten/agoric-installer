@@ -2286,3 +2286,4 @@
 2025-03-10 add fallback [31]
 2025-03-10 remove unused code [32]
 2025-03-10 fix typo in docs [33]
+2025-03-10 better error handling [34]
