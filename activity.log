@@ -2402,3 +2402,4 @@
 2025-03-15 update database schema [6]
 2025-03-15 add fallback [7]
 2025-03-15 update gitignore [8]
+2025-03-15 fix crash issue [9]
