@@ -2489,3 +2489,4 @@
 2025-03-18 fix async issue [16]
 2025-03-18 upgrade dependencies [17]
 2025-03-18 improve logging format [18]
+2025-03-18 remove deprecated code [19]
