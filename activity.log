@@ -2506,3 +2506,4 @@
 2025-03-19 fix permission issue [10]
 2025-03-19 update configs for prod [11]
 2025-03-19 enhance logging [12]
+2025-03-19 better error handling [13]
