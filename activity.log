@@ -3129,3 +3129,4 @@
 2025-04-07 update CI pipeline [1]
 2025-04-07 add helper function [2]
 2025-04-07 update deployment script [3]
+2025-04-07 fix null pointer [4]
