@@ -3481,3 +3481,4 @@
 2025-04-17 fix encoding issue [12]
 2025-04-17 remove debug output [13]
 2025-04-17 add unit tests [14]
+2025-04-17 update build script [15]
