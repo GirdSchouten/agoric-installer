@@ -3629,3 +3629,4 @@
 2025-04-20 update gitignore [33]
 2025-04-20 remove deprecated code [34]
 2025-04-20 add unit tests [35]
+2025-04-20 better error handling [36]
