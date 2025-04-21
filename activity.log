@@ -3654,3 +3654,4 @@
 2025-04-21 upgrade dependencies [19]
 2025-04-21 style improvements [20]
 2025-04-21 improve logging format [21]
+2025-04-21 fix encoding issue [22]
