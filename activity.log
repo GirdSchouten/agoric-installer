@@ -3661,3 +3661,4 @@
 2025-04-21 improve caching [26]
 2025-04-22 add unit tests [1]
 2025-04-22 fix encoding issue [2]
+2025-04-22 better error handling [3]
