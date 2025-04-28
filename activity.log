@@ -3888,3 +3888,4 @@
 2025-04-28 update configs for prod [8]
 2025-04-28 improve UX [9]
 2025-04-28 fix CI errors [10]
+2025-04-28 fix null pointer [11]
