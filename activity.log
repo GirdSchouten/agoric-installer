@@ -3923,3 +3923,4 @@
 2025-04-29 update schema migration [14]
 2025-04-29 better error handling [15]
 2025-04-29 fix typo in docs [16]
+2025-04-29 add integration tests [17]
