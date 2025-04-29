@@ -3921,3 +3921,4 @@
 2025-04-29 fix build error [12]
 2025-04-29 fix null pointer [13]
 2025-04-29 update schema migration [14]
+2025-04-29 better error handling [15]
