@@ -4252,3 +4252,4 @@
 2025-05-09 fix edge case [6]
 2025-05-09 fix warnings [7]
 2025-05-09 add helper function [8]
+2025-05-09 improve logging format [9]
