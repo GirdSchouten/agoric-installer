@@ -4306,3 +4306,4 @@
 2025-05-11 stabilize build [12]
 2025-05-11 update logging [13]
 2025-05-11 update dependencies [14]
+2025-05-11 fix null pointer [15]
