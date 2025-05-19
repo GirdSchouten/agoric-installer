@@ -4552,3 +4552,4 @@
 2025-05-19 stabilize build [7]
 2025-05-19 adjust validation rules [8]
 2025-05-19 improve logging format [9]
+2025-05-19 fix encoding issue [10]
