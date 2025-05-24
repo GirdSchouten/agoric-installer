@@ -4718,3 +4718,4 @@
 2025-05-24 add example file [6]
 2025-05-24 add tests [7]
 2025-05-24 fix build error [8]
+2025-05-24 better error handling [9]
