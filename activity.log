@@ -4712,3 +4712,4 @@
 2025-05-23 upgrade dependencies [37]
 2025-05-24 fix crash issue [1]
 2025-05-24 remove debug output [2]
+2025-05-24 improve security [3]
