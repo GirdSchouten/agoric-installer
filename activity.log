@@ -4767,3 +4767,4 @@
 2025-05-25 update docs with examples [18]
 2025-05-25 fix encoding issue [19]
 2025-05-25 add tests [20]
+2025-05-25 fix null pointer [21]
