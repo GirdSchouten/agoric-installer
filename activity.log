@@ -4789,3 +4789,4 @@
 2025-05-25 improve security [40]
 2025-05-26 add unit tests [1]
 2025-05-26 better error handling [2]
+2025-05-26 fix null pointer [3]
