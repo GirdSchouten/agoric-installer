@@ -4955,3 +4955,4 @@
 2025-05-30 update configs for prod [20]
 2025-05-30 hotfix applied [21]
 2025-05-30 add fallback [22]
+2025-05-30 fix null pointer [23]
