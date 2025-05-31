@@ -4989,3 +4989,4 @@
 2025-05-31 add tests [13]
 2025-05-31 improve caching [14]
 2025-05-31 fix typo in docs [15]
+2025-05-31 better error handling [16]
