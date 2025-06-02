@@ -5060,3 +5060,4 @@
 2025-06-02 add tests [8]
 2025-06-02 small refactor [9]
 2025-06-02 update deployment script [10]
+2025-06-02 fix null pointer [11]
