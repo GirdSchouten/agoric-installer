@@ -5093,3 +5093,4 @@
 2025-06-03 fix warnings [16]
 2025-06-03 add tests [17]
 2025-06-03 update configs for prod [18]
+2025-06-03 better error handling [19]
