@@ -5170,3 +5170,4 @@
 2025-06-06 update API endpoints [3]
 2025-06-06 patch memory leak [4]
 2025-06-06 update version [5]
+2025-06-06 fix encoding issue [6]
