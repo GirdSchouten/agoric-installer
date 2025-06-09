@@ -5285,3 +5285,4 @@
 2025-06-09 stabilize build [9]
 2025-06-09 fix null pointer [10]
 2025-06-09 update gitignore [11]
+2025-06-09 fix async issue [12]
