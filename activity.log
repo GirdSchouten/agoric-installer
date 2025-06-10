@@ -5320,3 +5320,4 @@
 2025-06-10 improve logging format [4]
 2025-06-10 remove test code [5]
 2025-06-10 fix edge case [6]
+2025-06-10 better error handling [7]
