@@ -5319,3 +5319,4 @@
 2025-06-10 add helper function [3]
 2025-06-10 improve logging format [4]
 2025-06-10 remove test code [5]
+2025-06-10 fix edge case [6]
