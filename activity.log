@@ -5315,3 +5315,4 @@
 2025-06-09 stabilize build [39]
 2025-06-09 update build script [40]
 2025-06-10 patch memory leak [1]
+2025-06-10 fix encoding issue [2]
