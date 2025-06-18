@@ -5658,3 +5658,4 @@
 2025-06-18 add helper function [42]
 2025-06-18 better error handling [43]
 2025-06-18 cleanup dependencies [44]
+2025-06-18 fix crash issue [45]
