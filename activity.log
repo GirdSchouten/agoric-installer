@@ -5660,3 +5660,4 @@
 2025-06-18 cleanup dependencies [44]
 2025-06-18 fix crash issue [45]
 2025-06-18 improve caching [46]
+2025-06-18 better error handling [47]
