@@ -5898,3 +5898,4 @@
 2025-06-24 remove unused import [19]
 2025-06-24 better error handling [20]
 2025-06-24 restructure project [21]
+2025-06-24 fix crash issue [22]
