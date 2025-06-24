@@ -5910,3 +5910,4 @@
 2025-06-24 fix broken link [31]
 2025-06-24 update schema migration [32]
 2025-06-24 rollback changes [33]
+2025-06-24 better error handling [34]
