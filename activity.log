@@ -5951,3 +5951,4 @@
 2025-06-25 fix crash issue [34]
 2025-06-25 better error handling [35]
 2025-06-25 tweak configs [36]
+2025-06-25 add helper function [37]
