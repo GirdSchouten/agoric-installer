@@ -6175,3 +6175,4 @@
 2025-07-02 fix crash issue [7]
 2025-07-02 improve logging format [8]
 2025-07-02 rebuild project [9]
+2025-07-02 fix docker build [10]
