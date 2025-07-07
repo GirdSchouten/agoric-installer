@@ -6382,3 +6382,4 @@
 2025-07-07 add unit tests [9]
 2025-07-07 stabilize build [10]
 2025-07-07 remove unused import [11]
+2025-07-07 add helper function [12]
