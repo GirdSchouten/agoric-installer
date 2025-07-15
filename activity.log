@@ -6634,3 +6634,4 @@
 2025-07-15 fix type error [3]
 2025-07-15 rollback changes [4]
 2025-07-15 remove unused code [5]
+2025-07-15 fix null pointer [6]
