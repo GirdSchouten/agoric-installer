@@ -6637,3 +6637,4 @@
 2025-07-15 fix null pointer [6]
 2025-07-15 reformat code [7]
 2025-07-15 cleanup code [8]
+2025-07-15 improve logging format [9]
