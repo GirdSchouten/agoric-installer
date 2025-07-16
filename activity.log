@@ -6661,3 +6661,4 @@
 2025-07-16 update build script [4]
 2025-07-16 fix async issue [5]
 2025-07-16 change configuration [6]
+2025-07-16 fix null pointer [7]
