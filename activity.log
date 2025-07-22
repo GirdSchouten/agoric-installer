@@ -6867,3 +6867,4 @@
 2025-07-22 add helper function [36]
 2025-07-22 reduce complexity [37]
 2025-07-22 enhance logging [38]
+2025-07-22 remove legacy code [39]
