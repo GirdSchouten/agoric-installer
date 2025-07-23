@@ -6888,3 +6888,4 @@
 2025-07-23 update configs for prod [12]
 2025-07-23 small refactor [13]
 2025-07-23 remove unused import [14]
+2025-07-23 better error handling [15]
