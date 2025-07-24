@@ -6913,3 +6913,4 @@
 2025-07-24 fix build error [10]
 2025-07-24 improve caching [11]
 2025-07-24 update schema migration [12]
+2025-07-24 fix config bug [13]
