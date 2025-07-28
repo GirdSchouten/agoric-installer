@@ -7041,3 +7041,4 @@
 2025-07-28 cleanup dependencies [13]
 2025-07-28 stabilize build [14]
 2025-07-28 update configs [15]
+2025-07-28 fix null pointer [16]
