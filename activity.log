@@ -7271,3 +7271,4 @@
 2025-08-03 add helper function [23]
 2025-08-03 add unit tests [24]
 2025-08-03 upgrade dependencies [25]
+2025-08-03 fix build error [26]
