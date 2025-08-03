@@ -7281,3 +7281,4 @@
 2025-08-03 remove unused import [33]
 2025-08-03 fix config bug [34]
 2025-08-03 add tests [35]
+2025-08-03 adjust validation rules [36]
