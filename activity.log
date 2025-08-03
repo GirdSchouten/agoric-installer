@@ -7259,3 +7259,4 @@
 2025-08-03 improve logging format [11]
 2025-08-03 restructure modules [12]
 2025-08-03 fix crash issue [13]
+2025-08-03 better error handling [14]
