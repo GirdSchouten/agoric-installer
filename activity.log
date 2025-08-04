@@ -7325,3 +7325,4 @@
 2025-08-04 update API endpoints [35]
 2025-08-04 remove unused import [36]
 2025-08-04 update docs with examples [37]
+2025-08-04 improve caching [38]
