@@ -7432,3 +7432,4 @@
 2025-08-08 patch memory leak [18]
 2025-08-08 remove test code [19]
 2025-08-08 update API keys [20]
+2025-08-08 fix encoding issue [21]
