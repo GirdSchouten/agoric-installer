@@ -7566,3 +7566,4 @@
 2025-08-11 fix misconfiguration [19]
 2025-08-11 add integration tests [20]
 2025-08-11 enhance logging [21]
+2025-08-11 fix encoding issue [22]
