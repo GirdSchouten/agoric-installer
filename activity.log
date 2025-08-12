@@ -7584,3 +7584,4 @@
 2025-08-12 add helper function [9]
 2025-08-12 rollback changes [10]
 2025-08-12 fix encoding issue [11]
+2025-08-12 add fallback [12]
