@@ -7935,3 +7935,4 @@
 2025-08-22 better error handling [27]
 2025-08-22 remove test code [28]
 2025-08-22 add fallback [29]
+2025-08-22 improve logging format [30]
