@@ -7948,3 +7948,4 @@
 2025-08-22 update configs for prod [40]
 2025-08-22 fix async issue [41]
 2025-08-22 fix typo in docs [42]
+2025-08-22 optimize queries [43]
