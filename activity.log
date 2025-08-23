@@ -7973,3 +7973,4 @@
 2025-08-23 update API docs [22]
 2025-08-23 fix compatibility [23]
 2025-08-23 add integration tests [24]
+2025-08-23 better error handling [25]
