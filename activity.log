@@ -7949,3 +7949,4 @@
 2025-08-22 fix async issue [41]
 2025-08-22 fix typo in docs [42]
 2025-08-22 optimize queries [43]
+2025-08-23 improve security [1]
