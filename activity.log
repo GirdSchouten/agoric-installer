@@ -8378,3 +8378,4 @@
 2025-09-03 add fallback [2]
 2025-09-03 fix warnings [3]
 2025-09-03 update API endpoints [4]
+2025-09-03 remove debug output [5]
