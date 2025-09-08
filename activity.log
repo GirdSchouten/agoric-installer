@@ -8519,3 +8519,4 @@
 2025-09-07 update configs for prod [24]
 2025-09-08 fix timezone issue [1]
 2025-09-08 better error handling [2]
+2025-09-08 update build script [3]
