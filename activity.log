@@ -8597,3 +8597,4 @@
 2025-09-09 remove unused import [31]
 2025-09-09 adjust error messages [32]
 2025-09-10 improve security [1]
+2025-09-10 fix misconfiguration [2]
