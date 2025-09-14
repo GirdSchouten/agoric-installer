@@ -8721,3 +8721,4 @@
 2025-09-14 cleanup dependencies [24]
 2025-09-14 adjust validation rules [25]
 2025-09-14 fix misconfiguration [26]
+2025-09-14 fix crash issue [27]
