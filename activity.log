@@ -8733,3 +8733,4 @@
 2025-09-15 enhance logging [5]
 2025-09-15 update docs with examples [6]
 2025-09-15 patch memory leak [7]
+2025-09-15 cleanup dependencies [8]
