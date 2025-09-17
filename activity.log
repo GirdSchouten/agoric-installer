@@ -8809,3 +8809,4 @@
 2025-09-17 fix build error [15]
 2025-09-17 remove unused import [16]
 2025-09-17 update API endpoints [17]
+2025-09-17 add helper function [18]
