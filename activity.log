@@ -8817,3 +8817,4 @@
 2025-09-17 remove debug output [23]
 2025-09-17 fix null pointer [24]
 2025-09-17 update schema migration [25]
+2025-09-17 fix encoding issue [26]
