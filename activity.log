@@ -9415,3 +9415,4 @@
 2025-10-05 update configs for prod [14]
 2025-10-05 fix edge case [15]
 2025-10-05 fix timezone issue [16]
+2025-10-05 optimize queries [17]
