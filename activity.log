@@ -9731,3 +9731,4 @@
 2025-10-14 fix timezone issue [4]
 2025-10-14 stabilize build [5]
 2025-10-14 fix typo in docs [6]
+2025-10-14 remove legacy code [7]
