@@ -9823,3 +9823,4 @@
 2025-10-16 optimize function [28]
 2025-10-16 tweak configs [29]
 2025-10-17 stabilize build [1]
+2025-10-17 improve logging format [2]
