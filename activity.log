@@ -10126,3 +10126,4 @@
 2025-10-26 fix build error [4]
 2025-10-26 update schema migration [5]
 2025-10-26 fix warnings [6]
+2025-10-26 enhance logging [7]
