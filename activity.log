@@ -10223,3 +10223,4 @@
 2025-10-28 fix null pointer [31]
 2025-10-28 cleanup dependencies [32]
 2025-10-28 improve UX [33]
+2025-10-28 update schema migration [34]
