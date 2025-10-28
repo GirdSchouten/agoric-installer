@@ -10215,3 +10215,4 @@
 2025-10-28 patch memory leak [23]
 2025-10-28 update README [24]
 2025-10-28 fix docker build [25]
+2025-10-28 add unit tests [26]
