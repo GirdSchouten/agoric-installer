@@ -10196,3 +10196,4 @@
 2025-10-28 fix async issue [4]
 2025-10-28 improve logging format [5]
 2025-10-28 fix encoding issue [6]
+2025-10-28 add tests [7]
