@@ -10260,3 +10260,4 @@
 2025-10-29 fix docker build [27]
 2025-10-29 fix null pointer [28]
 2025-10-29 cleanup code [29]
+2025-10-29 better error handling [30]
