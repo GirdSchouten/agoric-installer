@@ -10288,3 +10288,4 @@
 2025-10-30 temporary fix [23]
 2025-10-30 fix null pointer [24]
 2025-10-30 enhance logging [25]
+2025-10-30 improve logging format [26]
