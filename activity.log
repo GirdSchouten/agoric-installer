@@ -10327,3 +10327,4 @@
 2025-10-31 fix CI errors [34]
 2025-10-31 update API keys [35]
 2025-11-01 fix timezone issue [1]
+2025-11-01 add integration tests [2]
