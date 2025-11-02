@@ -10367,3 +10367,4 @@
 2025-11-02 update gitignore [3]
 2025-11-02 add fallback [4]
 2025-11-02 add unit tests [5]
+2025-11-02 fix CI errors [6]
