@@ -10504,3 +10504,4 @@
 2025-11-05 fix crash issue [31]
 2025-11-05 update gitignore [32]
 2025-11-05 update build script [33]
+2025-11-05 simplify logic [34]
