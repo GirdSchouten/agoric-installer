@@ -10596,3 +10596,4 @@
 2025-11-08 upgrade dependencies [17]
 2025-11-08 update gitignore [18]
 2025-11-08 add changelog [19]
+2025-11-08 better error handling [20]
