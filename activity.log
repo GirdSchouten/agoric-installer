@@ -10755,3 +10755,4 @@
 2025-11-12 remove unused import [17]
 2025-11-12 fix build error [18]
 2025-11-12 fix typo in docs [19]
+2025-11-12 fix crash issue [20]
