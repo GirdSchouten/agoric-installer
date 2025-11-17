@@ -10911,3 +10911,4 @@
 2025-11-16 cleanup code [19]
 2025-11-16 fix build error [20]
 2025-11-16 improve logging format [21]
+2025-11-17 add helper function [1]
