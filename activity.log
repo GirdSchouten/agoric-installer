@@ -11058,3 +11058,4 @@
 2025-11-20 refactor tests [13]
 2025-11-20 remove legacy code [14]
 2025-11-20 fix warnings [15]
+2025-11-20 improve logging format [16]
