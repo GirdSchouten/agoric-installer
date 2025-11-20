@@ -11059,3 +11059,4 @@
 2025-11-20 remove legacy code [14]
 2025-11-20 fix warnings [15]
 2025-11-20 improve logging format [16]
+2025-11-20 fix encoding issue [17]
