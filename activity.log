@@ -11506,3 +11506,4 @@
 2025-12-03 remove legacy code [13]
 2025-12-03 update API endpoints [14]
 2025-12-03 update API keys [15]
+2025-12-03 fix async issue [16]
