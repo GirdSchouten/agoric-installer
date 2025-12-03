@@ -11503,3 +11503,4 @@
 2025-12-03 fix encoding issue [10]
 2025-12-03 update schema migration [11]
 2025-12-03 fix warnings [12]
+2025-12-03 remove legacy code [13]
