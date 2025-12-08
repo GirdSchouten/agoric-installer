@@ -11662,3 +11662,4 @@
 2025-12-08 update configs for prod [4]
 2025-12-08 add example file [5]
 2025-12-08 fix warnings [6]
+2025-12-08 fix docker build [7]
