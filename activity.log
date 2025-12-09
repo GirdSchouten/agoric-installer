@@ -11732,3 +11732,4 @@
 2025-12-09 optimize function [27]
 2025-12-09 fix crash issue [28]
 2025-12-09 adjust error messages [29]
+2025-12-09 fix config bug [30]
