@@ -11964,3 +11964,4 @@
 2025-12-16 fix encoding issue [4]
 2025-12-16 fix timezone issue [5]
 2025-12-16 refactor code [6]
+2025-12-16 fix null pointer [7]
