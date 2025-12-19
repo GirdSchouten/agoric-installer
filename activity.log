@@ -12076,3 +12076,4 @@
 2025-12-19 update configs for prod [9]
 2025-12-19 update configs for prod [10]
 2025-12-19 better error handling [11]
+2025-12-19 fix docker build [12]
