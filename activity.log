@@ -12131,3 +12131,4 @@
 2025-12-20 cleanup code [17]
 2025-12-20 patch memory leak [18]
 2025-12-20 update schema migration [19]
+2025-12-20 update build script [20]
