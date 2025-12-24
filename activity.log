@@ -12271,3 +12271,4 @@
 2025-12-24 cleanup dependencies [33]
 2025-12-24 fix crash issue [34]
 2025-12-24 add fallback [35]
+2025-12-24 improve caching [36]
