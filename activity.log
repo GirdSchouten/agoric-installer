@@ -12254,3 +12254,4 @@
 2025-12-24 fix crash issue [16]
 2025-12-24 better error handling [17]
 2025-12-24 remove test code [18]
+2025-12-24 add integration tests [19]
