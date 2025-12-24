@@ -12252,3 +12252,4 @@
 2025-12-24 small refactor [14]
 2025-12-24 fix encoding issue [15]
 2025-12-24 fix crash issue [16]
+2025-12-24 better error handling [17]
